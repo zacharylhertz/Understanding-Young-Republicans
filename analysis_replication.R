@@ -80,7 +80,7 @@ dat <- dat %>%
                      CC20_333a == 2 ~ 0), # Oppose
          mw = # $15 Federal Minimum Wage
            case_when(CC20_350b == 1 ~ 1, # Support
-                     CC20_350b == 0 ~ 0), # Oppose
+                     CC20_350b == 2 ~ 0), # Oppose
          paris = # Withdrawing from the Paris Climate Agreement
            case_when(CC20_355a == 1 ~ 0,  # Support
                      CC20_355a == 2 ~ 1), # Oppose 
