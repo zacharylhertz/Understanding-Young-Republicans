@@ -1,6 +1,6 @@
 # College and Non-College Republicans with the 2020 CES
  Analysis comparing college students and non-college students (18-25 years of age). 
-This is code and analysis used to write our piece for  _The Monkey Cage_.
+This is code and analysis used to write [our piece](https://www.washingtonpost.com/politics/2022/01/20/diploma-divide-republicans-midterms/?utm_medium=social&utm_campaign=wp_monkeycage&utm_source=twitter) for  _The Monkey Cage_.
 ## Data 
 We used the [2020 Cooperative Election Study](https://dataverse.harvard.edu/dataset.xhtml?persistentId=doi:10.7910/DVN/E9N6PH) in our analysis. The survey had over 60,000 respondents, and we wanted to focus on young partisans 18 to 25 years of age. This leaves us with 864 college Republicans, 2200 college Democrats, 803 non-college Republicans, and 1353 non-college Democrats. We used the CES' voter validated data in our analysis.
 
